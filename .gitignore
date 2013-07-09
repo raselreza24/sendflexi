@@ -3,5 +3,7 @@ tmp/*
 [Cc]onfig/database.php
 app/tmp/*
 app/[Cc]onfig/core.php
-app/[Cc]onfig/database.php
+app/[Cc]onfig/config.php
+app/[Cc]onfig/users.php
+app/[Cc]onfig/include.php
 !empty
