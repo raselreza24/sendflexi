@@ -1,0 +1,22 @@
+{
+    "name": "sendflexi/sendflexi",
+    "type": "library",
+    "description": "automatic top up system",
+    "keywords": ["microframework","rest","router"],
+    "homepage": "https://github.com/sendflexi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rasel Reza",
+            "email": "raselreza24@gmail.com",
+            "homepage": "http://www.sendflexi.websoft24.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "ext-mcrypt": "*"
+    },
+    "autoload": {
+        "psr-0": { "sendflexi": "." }
+    }
+}
