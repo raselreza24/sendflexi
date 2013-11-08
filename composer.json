@@ -1,7 +1,7 @@
 {
-    "name": "sendflexi/sendflexi",
+    "name": "sendflexi",
     "type": "library",
-    "description": "automatic top up system",
+    "description": "automatic flexiload system",
     "keywords": ["microframework","rest","router"],
     "homepage": "https://github.com/sendflexi",
     "license": "MIT",
